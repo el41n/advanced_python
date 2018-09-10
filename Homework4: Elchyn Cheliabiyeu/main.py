@@ -28,6 +28,3 @@ if __name__ == '__main__':
     syncronize[0].release()
     p1.join()
     p2.join()
-
-
-
